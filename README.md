@@ -18,7 +18,7 @@ $ docker run -d \
   --gpus all \
   -it \
   -v {path/to/repo}:/tf/notebooks \
-  tensorflow/tensorflow:2.2.1-gpu-py3-jupyter
+  tensorflow/tensorflow:2.3.2-gpu-py3-jupyter
 ```
 
 ## Opening the notebook
